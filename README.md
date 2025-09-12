@@ -11,7 +11,7 @@
  </head>
  <body>
  <h1>Hallo mensen</h1>
- <p>dit is mijn eerste website op chrome</p>
+ <p>dit is mijn eerste website ik ben een person en ik ben geïntresserd</p>
  </body>
 </html>
 <img src=¨plaatje.jpg¨>
