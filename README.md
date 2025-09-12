@@ -11,7 +11,7 @@
  </head>
  <body>
  <h1>Hallo mensen</h1>
- <p>dit is mijn eerste website ik ben een meisje en ik ben geïntresserd in coderen</p>
+ <p>dit is mijn eerste website ik ben een meisje en ik ben geïnteresseerd in coderen</p>
  </body>
 </html>
 <img src=¨plaatje.jpg¨>
