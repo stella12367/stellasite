@@ -17,5 +17,4 @@
  <p>dit is mijn eerste website ik ben een meisje en ik ben geïnteresseerd in coderen</p>
 [Volg dit Youtube kanaal] (https://www.youtube.com/@theamazinglifeofstella1430)
 <button>hi</button>
- </body>
-</html>
+ 
