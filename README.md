@@ -17,7 +17,7 @@
  <p>dit is mijn eerste website ik ben een meisje en ik ben geïnteresseerd in coderen</p>
  </body>
 </html>
-<img src=¨plaatje.jpg¨>
-<a href=¨https://youtube.com¨>klik hier</a>
-<button>href=¨https://youtube.com¨>klik hier</button>
+
+<a href=¨https://youtube.com/channel/UCYwyoWPQDGCrN5BOzE3rjag¨>klik hier</a>
+
 <button>hi</button>
