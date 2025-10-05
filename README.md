@@ -8,7 +8,7 @@
  h1 {color:darkgreen;}
  p {font-size:20px;}
  </style>
- </head>
+</head>
  <body>
  <h1>Hallo mensen</h1>
 <h3>ik hou van wolfen</h3>
