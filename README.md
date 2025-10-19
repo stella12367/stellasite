@@ -5,7 +5,7 @@
  body {background-color:lightred;
  font-family:italic;}
  h1 {color:darkgreen;}
- p {font-size:20px;}
+ p {font-size:30 px;}
  </style>
 </head>
  <body>
