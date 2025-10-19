@@ -1,4 +1,4 @@
-<head>
+
  <body>
  <title>mijn eerste website</title>
  <style>
@@ -7,7 +7,6 @@
  h1 {color:darkgreen;}
  p {font-size:30 px;}
  </style>
-</head>
  <body>
  <h2>wie ben ik</h2>
   <br>
@@ -17,4 +16,4 @@
   <p>Ik teken,ik bouw op minecraft,ik animeer</p>
   <p>Ik eet,slaap,drink en leef</p>
 </body>
- </head>
+ 
