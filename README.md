@@ -14,4 +14,12 @@
   <h3>dus de raven zoeken prooi van de wolf en begeleid ze daar naar toe daarna jagen de wolfen en eten de wolfen de vlees van het dier en laten en beetje achter voor de raven</h3>
  <p>dit is mijn eerste website ik ben een meisje en ik ben geïnteresseerd in coderen</p>
 <button>hi</button>
-
+<h3>wolf</h3>
+<img src=¨[download](https://github.com/user-attachments/assets/8cb23c0c-0c63-45b2-9825-9cf578669e7b)¨>
+img{padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+border: solid 2px black;
+width: 100px;
+height: 100px;}
