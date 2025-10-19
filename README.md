@@ -1,5 +1,3 @@
-
-.hello
 <head>
  <title>mijn eerste website</title>
  <style>
@@ -16,4 +14,6 @@
   <h3>dus de raven zoeken prooi van de wolf en begeleid ze daar naar toe daarna jagen de wolfen en eten de wolfen de vlees van het dier en laten en beetje achter voor de raven</h3>
  <p>dit is mijn eerste website ik ben een meisje en ik ben geïnteresseerd in coderen</p>
 <button>hi</button>
- 
+h3{border-radius: 10px;
+width: 250;
+backgrond-color: lightgreen;
