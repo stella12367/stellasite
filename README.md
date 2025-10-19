@@ -23,3 +23,4 @@ padding-left: 20px;
 border: solid 2px black;
 width: 100px;
 height: 100px;}
+[bezoek kanaal op youtube](https://www.youtube.com/@theamazinglifeofstella1430)
