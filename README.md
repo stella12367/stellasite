@@ -15,6 +15,8 @@
   <h2>wat doe ik?</h2>
   <p>Ik teken,ik bouw op minecraft,ik animeer en codeer</p>
   <p>Ik eet,slaap,drink en leef</p>
+<p>er is een nieuwe minecraft update en dat toe voegt de speer,zombie paard,nautulis en nautulis armor</p>
+  
   ![wolf afbeelding](wolf.jpg)
 </body>
  
