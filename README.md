@@ -18,9 +18,9 @@
 <p>er is een nieuwe minecraft update en dat toe voegt de speer,zombie paard,nautulis en nautulis armor</p>
   
  <h3>ik ga jullie een beetje leren coderen</h3>
- dus <h1> met een / bij de tweede
-  en dat geld ook voor de rest van de getalen
+ dus < h > met getal en / bij de tweede
+ <h4> en dat geld ook voor de rest van de getalen
   om een achtergrond te maken moet je { backgroud-color : voorbeeld:rood; }
-  maar dat moet samen maar als ik dat doe dan heb ik een ander kleur
+  maar dat moet samen maar als ik dat doe dan heb ik een ander kleur</h4>
 </body>
  
