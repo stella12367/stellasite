@@ -23,6 +23,6 @@
   om een achtergrond te maken moet je { backgroud-color : voorbeeld:rood; }
   maar dat moet samen maar als ik dat doe dan heb ik een ander kleur</h4>
    <p>hey hoe gaat het mensen</p>
-  <br><button>goed</button><br><button>slecht</button>
+  <br><button>goed</button><br><p>of</p><button>slecht</button>
 </body>
  
