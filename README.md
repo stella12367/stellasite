@@ -22,5 +22,7 @@
  <h4> en dat geld ook voor de rest van de getalen
   om een achtergrond te maken moet je { backgroud-color : voorbeeld:rood; }
   maar dat moet samen maar als ik dat doe dan heb ik een ander kleur</h4>
+   hey hoe gaat het mensen
+  <button>goed</button> <br> <button>slecht</button>
 </body>
  
