@@ -8,16 +8,16 @@
  p {font-size:30 px;}
  </style>
  <body>
- <h2>wie ben ik</h2>
+ <h2>Wie ben ik</h2>
   <br>
  <p>Dit is mijn eerste website ik ben een meisje en ik ben geïnteresseerd in coderen en ik update mijn website</p>
   <br>
-  <h2>wat doe ik?</h2>
+  <h2>Wat doe ik?</h2>
   <p>Ik teken,ik bouw op minecraft,ik animeer en codeer</p>
   <p>Ik eet,slaap,drink en leef</p>
-<p>er is een nieuwe minecraft update en dat toe voegt de speer,zombie paard,nautulis en nautulis armor</p>
+<p>er is een nieuwe minecraft update en dat voegt de speer,zombie paard,nautulis en nautulis armor toe.</p>
   
- <h3>ik ga jullie een beetje leren coderen</h3>
+ <h3>Ik ga jullie een beetje leren coderen</h3>
  dus < h > met getal en / bij de tweede
  <h4> en dat geld ook voor de rest van de getalen
   om een achtergrond te maken moet je { backgroud-color : voorbeeld:rood; }
