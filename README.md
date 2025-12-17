@@ -24,5 +24,8 @@
   maar dat moet samen en zonder voorbeeld: maar als ik dat doe dan heb ik een ander kleur</h4>
    <p>hey hoe gaat het mensen</p>
   <br><button>goed</button><br><p>of</p><button>slecht</button>
+  <h3>hi mensen ik hou van de nieuwe minecraft update alles is er leuk aan een ik heb een create.ai app gezien een ik blijf met github en programmeur worden</h3>
+  <h4>wat vinden jullie er van?</h4>
+  <button>ik vind er niks er van</button><br><button>oke</button>
 </body>
  
