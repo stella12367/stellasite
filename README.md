@@ -27,5 +27,8 @@
   <h3>hi mensen ik hou van de nieuwe minecraft update alles is er leuk aan een ik heb een create.ai app gezien een ik blijf met github en programmeur worden</h3>
   <h4>wat vinden jullie er van?</h4>
   <button>ik vind er niks er van</button><br><button>oke</button>
-</body>
+  <h2>nieuwe minecraft aflevering</h2>
+  <br>
+  ik heb nieuwe minecraft episodes en minecraft heeft een nieuwe update dat er nieuwe mob texturen zijn en nametags zijn craftbaar
+ </body>
  
